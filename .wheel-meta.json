@@ -1,0 +1,22 @@
+{
+  "wheel_id": 478,
+  "structure": "umbrella",
+  "slug": "homeloanbrokerwollongong-103",
+  "project": "home-loan-broker-wollongong-pros-and-cons-448f0b97fb8ab327d4913",
+  "parent_t1_ref": "homeloanbrokerwollongong-151",
+  "node_role": "feeder",
+  "money_target": "homeloanbrokerwollongong.com.au",
+  "primary_kw": "home loan broker wollongong pros and cons",
+  "intended_url": "http://home-loan-broker-wollongong-pros-and-cons-448f0b97fb8ab327d4913.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "0018ae10204b74d1",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/homeloanbrokerwollongong-151/",
+      "anchor": "the home loan broker wollongong checklist overview",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
